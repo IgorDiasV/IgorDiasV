@@ -1,7 +1,9 @@
 <div align="center">
    <a href="https://github.com/IgorDiasV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorDiasV&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDiasV&theme=radical&layout=compact"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorDiasV&show_icons=true&theme=dracula&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igordiasv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDiasV&theme=radical&layout=compact"/> -->
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igordiasv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ## Tools that i work or worked with
